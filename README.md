@@ -5,6 +5,10 @@ Jogo para descobrir o nome do Pokémon pela sua sombra, desenvolvido como desafi
 - [Notion do Desafio](https://fifth-okapi-873.notion.site/Quem-esse-Pok-mon-82d1614cb79d42f284c7b90613c47b03)
 - [Comunidade no Discord](https://discord.com/invite/8m8ByW8raM)
 
+## Tela Inicial
+
+![image](https://user-images.githubusercontent.com/60274024/137795207-d2df7e07-2a5a-4f9b-86ef-50eb920815c1.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
