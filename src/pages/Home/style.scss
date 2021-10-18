@@ -1,0 +1,35 @@
+.main-home {
+  background-image: url("../../assets/images/blue-background.svg"),
+    var(--background);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1 {
+  color: var(--yellow);
+  -webkit-text-stroke: 3px var(--blue-400);
+  text-shadow: #000 0 1px 4px;
+  letter-spacing: 4px;
+  font-size: 54px;
+  margin-bottom: 24px;
+}
+
+img {
+  margin-bottom: 24px;
+}
+
+button {
+  color: white;
+  background-color: var(--red);
+  border: none;
+  border-radius: 20px;
+  font-size: 24px;
+  text-transform: uppercase;
+  cursor: pointer;
+  width: 270px;
+  padding: 5px;
+  box-shadow: #000 0 1px 3px;
+}
